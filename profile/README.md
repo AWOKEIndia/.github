@@ -1,4 +1,5 @@
-# AWOKE India: Illuminating Futures through Knowledge and Wisdom
+<h1 align="center">Welcome to AWOKE India<sup>&reg;</sup> 👋</h1>
+<h2 align="center"><strong>Illuminating Futures through Knowledge and Wisdom</strong></h2>
 
 Welcome to the GitHub page of AWOKE India, where we harness the power of knowledge and wisdom to empower individuals and organizations across the globe. At AWOKE, we're committed to bridging the skills gap in critical areas such as financial management, communication, and employability. Our journey has been a remarkable one, impacting the lives of over 2 lakh participants across 250+ cities through 1250+ programs, all within a decade.
 
